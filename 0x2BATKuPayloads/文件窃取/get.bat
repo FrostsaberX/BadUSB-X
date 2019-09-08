@@ -1,0 +1,10 @@
+dir /s /a /b "%userprofile%\desktop\*.txt">c:\temp.bat
+dir /s /a /b "%userprofile%\desktop\*.doc">>c:\temp.bat
+dir /s /a /b "%userprofile%\desktop\*.docx">>c:\temp.bat
+dir /s /a /b "%userprofile%\desktop\*.xls">>c:\temp.bat
+dir /s /a /b "%userprofile%\desktop\*.xlsx">>c:\temp.bat
+dir /s /a /b "%userprofile%\desktop\*.eet">>c:\temp.bat
+dir /s /a /b "%userprofile%\desktop\*.et">>c:\temp.bat
+dir /s /a /b "%userprofile%\desktop\*.xlt">>c:\temp.bat
+dir /s /a /b "%userprofile%\desktop\*.rtf">>c:\temp.bat
+dir /s /a /b "%userprofile%\desktop\*.htl">>c:\temp.bat
